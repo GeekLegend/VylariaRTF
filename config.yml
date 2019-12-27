@@ -1,0 +1,17 @@
+game:
+  world:
+    name: "world"
+    gamerules:
+      doDaylightCycle: false
+    weather: false
+setups:
+  join:
+    items:
+      join:
+        slot: 0
+        material: "eye of ender"
+        name: "&dRejoindre"
+      leave:
+        slot: 8
+        material: "bed"
+        name: "&cQuitter"
